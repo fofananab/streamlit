@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
-data=pd.read_csv('Expresso_churn_dataset (2).csv')
+data=pd.read_csv('Expresso_churn.csv')
 st.title("assata")
 data.head()
 data.info()
