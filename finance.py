@@ -54,7 +54,7 @@ st.bar_chart(df, x="age_of_respondent", y="education_level", color="country", ho
 
 
 
-st.bar_chart(df, x="year", y="age_of_respondent", color="job_type", stack=False)
+st.bar_chart(df, x="year", y="age_of_respondent", color="job_type", horizontal=False)
 
 # the histogram of the data
 
