@@ -6,7 +6,7 @@ import os # accessing directory structure
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 import streamlit as st
 st.title("ANALYSE :bar_chart::coffee:")
-df=pd.read_csv('Financial_inclusion_dataset(1).csv')
+df=pd.read_csv('Financial_inclusion.csv')
 st.dataframe(df)
 df.head(5)
 
