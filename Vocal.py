@@ -67,5 +67,5 @@ if uploaded_file:
             if st.button('Enregistrer le texte dans un fichier'):
                 save_text_to_file(text, 'transcription.txt')
                 st.success('Texte sauvegardé dans transcription.txt')
-pip install SpeechRecognition
+
 
