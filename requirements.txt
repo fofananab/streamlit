@@ -100,4 +100,5 @@ opencv-python
 nltk
 streamlit
 SpeechRecognition
+SpeechRecognition==3.9.0
 
