@@ -101,5 +101,5 @@ nltk
 streamlit
 SpeechRecognition
 SpeechRecognition==3.9.0
-pyaudio
+pyAudio
 
