@@ -97,3 +97,7 @@ xlrd==2.0.1
 zipp==3.19.2
 nltk==3.7.0
 opencv-python
+nltk
+streamlit
+SpeechRecognition
+
