@@ -102,8 +102,3 @@ streamlit
 SpeechRecognition
 SpeechRecognition==3.9.0
 pyaudio==0.2.14
-pip install --upgrade pip
-streamlit --version
-my_package/__init__.py
-install.packages("stringi")
-install.packages("stringr")
